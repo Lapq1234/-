@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body {
+    background-color: #80bf81;
+     font-family: 'Oswald';
+  }
+  h1 {
+    text-align: center;
+  }
+  .box {
+    background-color: rgb(40, 124, 51);
+    width: 140px;
+    height: 100px;
+    transition: all .3s linear;
+  }
+  .box:hover {
+    width: 1200px;
+    height: 340px;
+    background-color: rgb(40, 124, 51);
+  background-image: url('https://avatars.mds.yandex.net/get-zen_doc/3990339/pub_601a50f44452733844273750_6081ca50960b6600ab073c04/scale_1200');
+    i {
+      text-align: right;
+    }  
+ 
+      
+    
